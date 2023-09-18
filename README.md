@@ -9,3 +9,8 @@
 
 - [ ] Todo list
 - [x] 2nd things
+
+```python
+s = "python syntax highlighting"
+print s
+```
