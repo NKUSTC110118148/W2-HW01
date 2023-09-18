@@ -14,3 +14,7 @@
 s = "python syntax highlighting"
 print s
 ```
+```javascript
+var s = "javascript syntax text";
+alert(s)
+```
