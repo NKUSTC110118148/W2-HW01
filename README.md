@@ -5,7 +5,7 @@
 ##### W2-HW01
 ###### W2-HW01
 
-![182513897](https://github.com/NKUSTC110118148/W2-HW01/assets/145321425/79846120-c412-4d06-8754-a87caaf5561a)
+![NKUST](nkust.png "高科大圖片")
 
 - [ ] Todo list
 - [x] 2nd things
