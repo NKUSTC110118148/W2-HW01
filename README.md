@@ -48,3 +48,6 @@ print s
 var s = "javascript syntax text";
 alert(s);
 ```
+`
+zzz inline code here zzz
+`
